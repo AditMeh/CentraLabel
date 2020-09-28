@@ -1,5 +1,6 @@
 # CentraLabel
-An online, crowd source platform with in-built annotation tools to outsource labelling and annotation to freelancers.
+An online, crowd source platform with in-built annotation tools to outsource labelling and annotation to freelancers. <br>
+Video Link: https://streamable.com/x024ce
 
 # Roadmap
 ## Frontend:
