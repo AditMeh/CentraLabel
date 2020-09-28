@@ -1,13 +1,13 @@
 # CentraLabel
 An online, crowd source platform with in-built annotation tools to outsource labelling and annotation to freelancers. <br>
-Video Link: https://streamable.com/x024ce
+Video Demo Link: https://streamable.com/x024ce
 
 # Roadmap
 ## Frontend:
 
  * [ ] Create a public marketplace for labellers to "claim" datasets
  * [ ] Break down labelling UI component into smaller components
- * [ ] General code cleanup
+ * [ ] General code cleanup/ bug fixes
  * [ ] csv parser to store class labels from csv to database
  * [ ] add admin menu for contractor and contractee to see labelling progress on datasets
  * [ ] Modify UI to be much more aesthetic
