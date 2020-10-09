@@ -2,6 +2,8 @@
 An online, crowd source platform with in-built annotation tools to outsource labelling and annotation to freelancers. <br>
 Video Demo Link: https://streamable.com/x024ce
 
+-To look into: https://stackoverflow.com/questions/55227880/how-to-put-a-text-inside-a-rect-using-konva-js
+
 # Roadmap
 ## Frontend:
 
